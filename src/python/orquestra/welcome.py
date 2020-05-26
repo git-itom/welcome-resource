@@ -5,7 +5,7 @@ This module saves a welcome message.
 import json
 
 def welcome():
-    message = "Welcome to Orquestra!"
+    message = "Welcome to Orquestra from Thomas!"
 
     message_dict = {}
     message_dict["message"] = message
